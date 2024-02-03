@@ -1,0 +1,1 @@
+plt.scatter(my_test,poly_my_pred,color= 'green')
